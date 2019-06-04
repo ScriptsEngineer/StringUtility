@@ -2,6 +2,8 @@
 
 This project is a test of use Visual Studio Code with multiple projects and solution!
 
+![image](https://travis-ci.com/ScriptsEngineer/StringUtility.svg?branch=master)
+
 ## Learn Commands!
 
 - Create new Solution
