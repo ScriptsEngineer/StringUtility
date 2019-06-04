@@ -1,0 +1,14 @@
+E:\VisualStudio\StringUtility\StringUtilityConsole\bin\Debug\netcoreapp2.1\StringUtilityConsole.deps.json
+E:\VisualStudio\StringUtility\StringUtilityConsole\bin\Debug\netcoreapp2.1\StringUtilityConsole.runtimeconfig.json
+E:\VisualStudio\StringUtility\StringUtilityConsole\bin\Debug\netcoreapp2.1\StringUtilityConsole.runtimeconfig.dev.json
+E:\VisualStudio\StringUtility\StringUtilityConsole\bin\Debug\netcoreapp2.1\StringUtilityConsole.dll
+E:\VisualStudio\StringUtility\StringUtilityConsole\bin\Debug\netcoreapp2.1\StringUtilityConsole.pdb
+E:\VisualStudio\StringUtility\StringUtilityConsole\bin\Debug\netcoreapp2.1\StringUtility.dll
+E:\VisualStudio\StringUtility\StringUtilityConsole\bin\Debug\netcoreapp2.1\StringUtility.pdb
+E:\VisualStudio\StringUtility\StringUtilityConsole\obj\Debug\netcoreapp2.1\StringUtilityConsole.csprojAssemblyReference.cache
+E:\VisualStudio\StringUtility\StringUtilityConsole\obj\Debug\netcoreapp2.1\StringUtilityConsole.csproj.CoreCompileInputs.cache
+E:\VisualStudio\StringUtility\StringUtilityConsole\obj\Debug\netcoreapp2.1\StringUtilityConsole.AssemblyInfoInputs.cache
+E:\VisualStudio\StringUtility\StringUtilityConsole\obj\Debug\netcoreapp2.1\StringUtilityConsole.AssemblyInfo.cs
+E:\VisualStudio\StringUtility\StringUtilityConsole\obj\Debug\netcoreapp2.1\StringUtilityConsole.csproj.CopyComplete
+E:\VisualStudio\StringUtility\StringUtilityConsole\obj\Debug\netcoreapp2.1\StringUtilityConsole.dll
+E:\VisualStudio\StringUtility\StringUtilityConsole\obj\Debug\netcoreapp2.1\StringUtilityConsole.pdb

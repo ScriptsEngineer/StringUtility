@@ -1,0 +1,9 @@
+E:\VisualStudio\StringUtility\StringUtility\bin\Debug\netstandard2.0\StringUtility.deps.json
+E:\VisualStudio\StringUtility\StringUtility\bin\Debug\netstandard2.0\StringUtility.dll
+E:\VisualStudio\StringUtility\StringUtility\bin\Debug\netstandard2.0\StringUtility.pdb
+E:\VisualStudio\StringUtility\StringUtility\obj\Debug\netstandard2.0\StringUtility.csprojAssemblyReference.cache
+E:\VisualStudio\StringUtility\StringUtility\obj\Debug\netstandard2.0\StringUtility.csproj.CoreCompileInputs.cache
+E:\VisualStudio\StringUtility\StringUtility\obj\Debug\netstandard2.0\StringUtility.AssemblyInfoInputs.cache
+E:\VisualStudio\StringUtility\StringUtility\obj\Debug\netstandard2.0\StringUtility.AssemblyInfo.cs
+E:\VisualStudio\StringUtility\StringUtility\obj\Debug\netstandard2.0\StringUtility.dll
+E:\VisualStudio\StringUtility\StringUtility\obj\Debug\netstandard2.0\StringUtility.pdb
