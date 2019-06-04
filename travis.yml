@@ -1,2 +1,5 @@
 language: csharp
 solution: StringUtility.sln
+dotnet: 2.1.502
+scripts:
+  - dotnet build
